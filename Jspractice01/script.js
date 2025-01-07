@@ -54,9 +54,34 @@
 // var old js mein tha
 //let const new js mein aya
  
-var myVariable = 1222;
+// var myVariable = 1222;
 
 //jitne bhi variable ya data hum bananate hai uinhhe store kahi to karna padta hai uske liye yhota ha ia heap meomory
 //execution context jab bhi hum chalyega function apna ek khudka ek imaginaryu  conatiner bana alega jismein uski teem cheeje  hoitiing
 //execution context
 //1) variable object
+
+// var obj = {name: "Harshal", age: 20};
+// var copyobj = {...obj};
+
+//for rach loop srf array  pe chalta hai ,atlab ki jab bhi tumhare paas ek array ho tab use mein kaun aata ghai foreach loop
+
+// var a = [1, 2, 3, 4, 5];
+// a.forEach(function() {
+
+    
+// });
+
+//callback functions
+//callback functions are those functions which are passed as an argument to another function
+// function abc(callback) {
+//     callback();
+// }
+// first class functions 
+//js mein function ek first class citizen hai
+// fucntion ko as a value us ekrte skte hai 
+// function abc() {
+//     console.log("Hello");
+// }
+// var a = abc;
+// a();
