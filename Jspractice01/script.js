@@ -85,3 +85,9 @@
 // }
 // var a = abc;
 // a();
+// day 3
+//project on anothe rtab 
+
+//
+
+// var a = 10;
